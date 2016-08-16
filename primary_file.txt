@@ -3,3 +3,6 @@ Line 2-This will be staged.
 Line 3- this one will be the last one 
 Line 4- The fourth line we are working on 
 Line 5- The fifht line added here 
+
+Line 6 - This is a line for amending a commit 
+Line 7 - this will be in a same commit as 6
