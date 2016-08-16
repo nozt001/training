@@ -8,3 +8,4 @@ Line 6 - This is a line for amending a commit
 Line 7 - this will be in a same commit as 6
 
 change 8
+change 9
