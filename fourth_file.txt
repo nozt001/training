@@ -1,0 +1,3 @@
+a fourth file for studying git 
+
+text_edit:-> this is a conflicting file in the branch 
