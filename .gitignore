@@ -1,0 +1,11 @@
+# This is the ocmment line and it is ignored
+# *.txt 
+tempfile.txt
+git log Temp.txt
+*.zip
+*.rar
+*.jpeg
+*.jpg
+*.log
+log/*.log
+
