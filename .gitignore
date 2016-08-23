@@ -7,5 +7,6 @@ git log Temp.txt
 *.jpeg
 *.jpg
 *.log
+*.zzz
 log/*.log
 
